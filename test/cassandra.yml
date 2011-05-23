@@ -1,0 +1,5 @@
+test:
+  servers: "127.0.0.1:9160"
+  keyspace: "TestCassandraMapper"
+  timeout: 3
+  retries: 2
